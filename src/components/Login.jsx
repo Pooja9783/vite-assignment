@@ -53,7 +53,7 @@ const Login = () => {
   return (
     <div>
       <Box m={3}>
-        <Typography variant="h4">Login</Typography>
+        <Typography variant="h5">Login</Typography>
 
         <Grid item xs={8} sx={{ width: "500px", margin: "auto" }}>
           <TextField

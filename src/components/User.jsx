@@ -48,7 +48,7 @@ const User = () => {
     <div>
       <Box>
         <Typography variant="h4" m={4}>
-          Marriage Portal
+          User Deatails
         </Typography>
         <Grid item xs={8} sx={{ width: "500px", margin: "auto" }}>
           <TextField

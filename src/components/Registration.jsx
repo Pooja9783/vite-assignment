@@ -54,9 +54,11 @@ const Registration = () => {
   return (
     <div>
       <Box m={3}>
-        <Typography variant="h4">Registration</Typography>
-
+        <Typography variant="h4">Marriage Portal</Typography>
+<hr />
         <Grid item xs={8} sx={{ width: "500px", margin: "auto" }}>
+        <Typography variant="h5">Register Form</Typography>
+
           <TextField
             type="text"
             fullWidth
